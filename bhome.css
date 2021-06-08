@@ -1,0 +1,72 @@
+.flex{ padding-top:100px ;
+    display: flex;
+    gap:100px;
+    flex-direction: row;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    
+}
+.nav-1{
+    position:relative;
+}
+
+.card-sc{
+ 
+}
+
+  
+  .scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+
+  .policy{
+      padding-top: 10px;
+  }
+  .container{
+    max-width:1110%;
+   margin: 0 auto;
+    overflow:auto;
+    padding: 0 40px;
+    
+}
+
+
+
+.policy p{
+    padding-top: 20px;
+}
+.policy{
+    
+    padding-top: 30px;
+}
+  .bg{
+      background: #333;
+      color: #fff;
+  }
+
+  .card-text{
+      padding-left:20px;
+  }
+  .card-1{
+    box-shadow: 0 4px 8px 0 rgba(204, 93, 93, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    padding-top: 20px;
+    background-color:#0000;
+   
+   }
+
+   h2{
+       text-align: center;
+   }
+.hi{
+       background-color: #0000;
+   }
